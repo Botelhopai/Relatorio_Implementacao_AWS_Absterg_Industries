@@ -1,6 +1,6 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-**Data:** 01/03/2026  
+**Data:** 22/01/2026  
 **Empresa:** Abstergo Industries  
 **Responsável:** Gabriel Botelho
 
